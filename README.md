@@ -32,6 +32,6 @@ After people start playing, listen to their feedback. Make changes to the game t
 
 
 # Resources 
-https://chat.openai.com/
-https://www.youtube.com/watch?v=Ep4QgPUpCZU
-https://www.youtube.com/watch?v=tiM-LzIovaU
+* https://chat.openai.com/
+* https://www.youtube.com/watch?v=Ep4QgPUpCZU
+* https://www.youtube.com/watch?v=tiM-LzIovaU
