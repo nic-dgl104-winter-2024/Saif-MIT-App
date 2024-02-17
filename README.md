@@ -25,3 +25,13 @@ After people start playing, listen to their feedback. Make changes to the game t
 
 # ScreenShots
 
+
+![WhatsApp Image 2024-02-16 at 10 36 58 PM](https://github.com/nic-dgl104-winter-2024/Saif-MIT-App/assets/105549569/286c902f-6d2a-4823-a4b8-600f118e1027)
+![WhatsApp Image 2024-02-16 at 10 36 59 PM (1)](https://github.com/nic-dgl104-winter-2024/Saif-MIT-App/assets/105549569/122eacf8-1e2b-498a-84c5-a4fda1876841)
+![WhatsApp Image 2024-02-16 at 10 36 59 PM](https://github.com/nic-dgl104-winter-2024/Saif-MIT-App/assets/105549569/ffa18cee-8ed3-4eea-ae96-656d16c24800)
+
+
+# Resources 
+https://chat.openai.com/
+https://www.youtube.com/watch?v=Ep4QgPUpCZU
+https://www.youtube.com/watch?v=tiM-LzIovaU
